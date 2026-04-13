@@ -3,7 +3,7 @@
 
 <img width="1201" height="658" alt="image" src="https://github.com/user-attachments/assets/1e6cc7c6-7c2f-4682-9335-11505032c9b9" />
 
-# --
+## --
 <img width="778" height="365" alt="image" src="https://github.com/user-attachments/assets/e8b1f8be-7322-4a5c-bf44-7ca7688e60cd" />
 
 ## --
@@ -19,3 +19,16 @@ Para el cálculo de Siguientes, se aplicaron las reglas clásicas del algoritmo 
 
 
 El algoritmo distingue correctamente entre terminales y no terminales, evitando errores durante la ejecución. Además, se repiten las iteraciones hasta que no se producen cambios en los conjuntos, garantizando resultados correctos.
+
+# -----------------------
+
+<img width="1265" height="662" alt="image" src="https://github.com/user-attachments/assets/2d972ca9-071f-4a8a-a360-4e363c176db0" />
+
+## --
+<img width="729" height="334" alt="image" src="https://github.com/user-attachments/assets/ad196424-b030-4fe3-a6bf-c2f476746503" />
+
+## --
+En el segundo ejercicio se mantiene la misma lógica de implementación utilizada en el primero, se emplean algoritmos iterativos para el cálculo de los conjuntos primeros y siguientes.
+
+A diferencia del primer ejercicio, esta gramática no presenta recursión izquierda directa.
+
