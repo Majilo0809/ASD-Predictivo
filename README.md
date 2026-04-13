@@ -25,10 +25,9 @@ El algoritmo distingue correctamente entre terminales y no terminales, evitando 
 <img width="1265" height="662" alt="image" src="https://github.com/user-attachments/assets/2d972ca9-071f-4a8a-a360-4e363c176db0" />
 
 ## --
-<img width="729" height="334" alt="image" src="https://github.com/user-attachments/assets/ad196424-b030-4fe3-a6bf-c2f476746503" />
+En el segundo ejercicio se mantiene la misma lógica de implementación utilizada en el primero, se emplean algoritmos iterativos para el cálculo de los conjuntos primeros y siguientes.
+A diferencia del primer ejercicio, esta gramática no presenta recursión izquierda directa.
 
 ## --
-En el segundo ejercicio se mantiene la misma lógica de implementación utilizada en el primero, se emplean algoritmos iterativos para el cálculo de los conjuntos primeros y siguientes.
-
-A diferencia del primer ejercicio, esta gramática no presenta recursión izquierda directa.
+<img width="729" height="334" alt="image" src="https://github.com/user-attachments/assets/ad196424-b030-4fe3-a6bf-c2f476746503" />
 
